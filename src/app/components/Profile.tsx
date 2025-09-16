@@ -21,14 +21,6 @@ export default function Profile() {
             "60% 40% 30% 70% / 60% 30% 70% 40%",
           ],
         }}
-
-        transition={{
-          borderRadius: {
-            duration: 8,
-            repeat: Infinity,
-            ease: "easeInOut",
-          },
-        }}
       >
         <Image
           src="/Assets/Profile1.jpeg"
